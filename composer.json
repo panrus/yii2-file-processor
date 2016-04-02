@@ -1,5 +1,5 @@
 {
-    "name": "deanar/yii2-file-processor",
+    "name": "panrus/yii2-file-processor",
     "description": "Upload and process files and images for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","upload","files","images","crop","resize","thumbnails"],
